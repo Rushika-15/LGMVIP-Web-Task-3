@@ -1,2 +1,2 @@
 # Registration_Form
-Simple Registration Form using HTML, CSS and JavaScript 
+Registration Form using HTML, CSS and JavaScript 
