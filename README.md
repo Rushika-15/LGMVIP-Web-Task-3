@@ -1,2 +1,2 @@
 # Registration_Form
-Registration Form using HTML, CSS and JavaScript 
+Intermediate level Task 2 - Registration Form using HTML, CSS and JavaScript 
